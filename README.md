@@ -12,7 +12,7 @@ Olá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 
 > <p Align="justify"> Durante a graduação me desenvolvi como pesquisador no <a href="https://lti.ufc.br/pt/">Laboratório de Tecnologias Inovadoras</a>, trabalhando com Python, R, Typescript, React, Nest Js, e etc. Além disso, atuei em projetos de iniciação à docência no ensino dos Fundamentos de Programação para alunos ingressantes nos cursos de tecnologia.</p>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&theme=vue&langs_count=3" alt="victorbzrra" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&langs_count=3" alt="victorbzrra" />
 
 ### Linguagens e Ferramentas
 
