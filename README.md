@@ -4,7 +4,7 @@
 
 Olaá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 
-#### Sobre mim
+### Sobre mim
 
 > Estudante de Ciência da Computação 💻 pela Universidade Federal do Ceará 👨‍🎓 <br>
 > Trabalho com desenvolvimento Java :coffee: focado em sistemas legados <br>
@@ -12,15 +12,17 @@ Olaá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 
 <p Align="justify"> Durante a graduação me desenvolvi como pesquisador no <a href="https://lti.ufc.br/pt/">Laboratório de Tecnologias Inovadoras</a>, trabalhando com Python, R, Typescript, React, Nest Js, e etc. Além disso, atuei em projetos de iniciação à docência no ensino dos Fundamentos de Programação para alunos ingressantes nos cursos de tecnologia.</p>
 
-#### Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a> <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
 </p>
 
-#### Entusiasta com 
+#
+  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&layout=compact" alt="victorbzrra" />
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<p align="right"> <h4>Interesses</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>
@@ -33,5 +35,3 @@ Olaá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&layout=compact" alt="victorbzrra" />
