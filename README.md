@@ -5,12 +5,8 @@
 Olá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 
 ### Sobre mim
-
-- Estudante de Ciência da Computação (UFC) 💻 
-- Desenvolvedor Java (Sistemas Legados) ☕ 
-- Experiência de atuação com React ⚛️ <br>
-
-> <p Align="justify"> Durante a graduação me desenvolvi como pesquisador no <a href="https://lti.ufc.br/pt/">Laboratório de Tecnologias Inovadoras</a>, trabalhando com Python, R, Typescript, React, Nest Js, e etc. Além disso, atuei em projetos de iniciação à docência no ensino dos Fundamentos de Programação para alunos ingressantes nos cursos de tecnologia.</p>
+> Ciência da Computação @ UFC | Dev. Java EE e SpringBoot 
+<p text-align="justify"> Trabalho desenvolvendo soluções em software para a web com foco nas tecnologias Java. Sou entusiasta por tecnologia e estou sempre buscando aprender sobre as mais diversas áreas da computação. Sou colecionador de games retrô, o que provavelmente despertou minha paixão por computação.</p>
   
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&langs_count=3" alt="victorbzrra" />
 
