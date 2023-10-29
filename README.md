@@ -6,7 +6,7 @@ Olá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 
 ### Sobre mim
 > Ciência da Computação @ UFC | Dev. Java EE e SpringBoot 
-<p text-align="justify"> Trabalho desenvolvendo soluções em software para a web com foco nas tecnologias Java. Sou entusiasta por tecnologia e estou sempre buscando aprender sobre as mais diversas áreas da computação. Sou colecionador de games retrô, o que provavelmente despertou minha paixão por computação.</p>
+<p text-align="justify"> Desenvolvedor de soluções de software para a web, com especialização em tecnologias Java. Tenho uma verdadeira paixão por tecnologia e estou constantemente em busca de aprimorar meu conhecimento em diversas áreas da computação. Estou sempre aberto a oportunidades de aprendizado e colaboração. Sinta-se à vontade para entrar em contato comigo!</p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&langs_count=3" alt="victorbzrra" />
   
