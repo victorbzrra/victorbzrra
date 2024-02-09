@@ -6,7 +6,9 @@ Olá 👋, seja bem-vindo(a), pode me chamar de Victor. <br>
 
 ### Sobre mim
 > Cientista da Computação @ UFC.
+
 > Desenvolvedor Java EE e SpringBoot.
+
 > Pesquisador em Nuvem de Pontos e Inteligência Artificial.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=victorbzrra&show_icons=true&locale=en&langs_count=3" alt="victorbzrra" />
